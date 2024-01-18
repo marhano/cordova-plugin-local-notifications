@@ -42,8 +42,6 @@ import android.graphics.Canvas;
 import java.util.List;
 import java.util.Random;
 
-import javax.management.Notification;
-
 import de.appplant.cordova.plugin.notification.action.Action;
 
 import static android.app.PendingIntent.FLAG_UPDATE_CURRENT;
